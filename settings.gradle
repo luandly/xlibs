@@ -1,0 +1,2 @@
+include ':app', ':xlibsUtils'
+rootProject.name='xlibs'
