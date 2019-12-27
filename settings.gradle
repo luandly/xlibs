@@ -1,2 +1,2 @@
-include ':app', ':xlibsUtils'
+include  ':xlibsUtils'
 rootProject.name='xlibs'
